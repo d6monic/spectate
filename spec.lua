@@ -1,10 +1,10 @@
 ---credits---okk#6236/Awaken#6969
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/d6monic/spectate/main/settingsGUI.lua'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "Awaken#6969",
-	LoadingTitle = "Imgay",
-	LoadingSubtitle = "by Awaken#6969",
+    Name = "bankthreat",
+	LoadingTitle = "fuckyou",
+	LoadingSubtitle = "by bankthreat",
 	ConfigurationSaving = {
 		Enabled = true,
 		FolderName = nil, 
